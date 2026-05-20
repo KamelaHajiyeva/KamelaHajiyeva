@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there 👋 I'm Kamela
 
-<!--
-**KamelaHajiyeva/KamelaHajiyeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Junior Full Stack .NET Developer  
+🚀 Focused on ASP.NET Core, C#, SQL and React  
+📚 Currently improving my backend and full stack development skills  
+🌍 Based in Istanbul, Turkey  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+- ASP.NET Core
+- C#
+- SQL Server
+- Entity Framework
+- JavaScript
+- React
+- Git & GitHub
+
+---
+
+## 📌 Current Goals
+
+- Building real-world full stack projects
+- Improving backend architecture skills
+- Learning REST API development
+- Growing as a professional software developer
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/kamela-hajiyeva
